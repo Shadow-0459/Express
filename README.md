@@ -1,0 +1,1 @@
+package.json文件的name名字不能跟npm模块相同。
